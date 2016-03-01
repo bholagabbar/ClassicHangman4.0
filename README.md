@@ -1,7 +1,7 @@
 # ClassicHangman4.0
 A JAVA and MySQL based GUI application which simulates an interactive Hangman game with the user. Built as a part of my Informatics Practices Project.
 
-*Setup*: Make sure you have a local instance of a MySQL server setup along with the root username and password. <br><br>
+*Setup and Run*: Make sure you have a local instance of a MySQL server setup along with the root username and password. <br><br>
 1. Fork this repository to your account<br>
 2. Clone in any directory on your system<br>
 3. Openup NetBeans IDE, navigate to the directory and open up the project.<br>
